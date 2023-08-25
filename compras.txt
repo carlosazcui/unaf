@@ -1,3 +1,7 @@
 comestibles
+pan
+azucar
+sal
 
 limpieza
+detergente
